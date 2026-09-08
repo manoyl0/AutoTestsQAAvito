@@ -1,0 +1,11 @@
+target/
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+allure-report/
+allure-results/
+*.log
+.DS_Store
